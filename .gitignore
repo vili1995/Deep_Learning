@@ -1,0 +1,5 @@
+mnist.pkl
+mnist.pkl.gz
+test.py
+
+*.png
